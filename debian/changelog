@@ -1,3 +1,10 @@
+gsettings-ubuntu-touch-schemas (0.0.7+17.10.20170922-0ubuntu1) artful; urgency=medium
+
+  * com.ubuntu.user-interface.gschema: add .desktop keys that reflects
+    GNOME ones
+
+ -- Marco Trevisan (Treviño) <mail@3v1n0.net>  Fri, 22 Sep 2017 00:26:11 +0000
+
 gsettings-ubuntu-touch-schemas (0.0.7+17.04.20161109-0ubuntu1) zesty; urgency=medium
 
   * Add an option to enable/disable MMS support globally (not only for
