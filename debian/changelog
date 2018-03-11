@@ -1,3 +1,9 @@
+gsettings-ubuntu-touch-schemas (0.0.8+ubports) xenial; urgency=medium
+
+  * Imported to UBports
+
+ -- UBports auto importer <infra@ubports.com>  Sun, 11 Mar 2018 12:25:28 +0000
+
 gsettings-ubuntu-touch-schemas (0.0.7+17.10.20170922-0ubuntu1) artful; urgency=medium
 
   * com.ubuntu.user-interface.gschema: add .desktop keys that reflects
